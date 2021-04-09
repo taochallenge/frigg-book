@@ -1,0 +1,23 @@
+{
+  "name": "frigg-book",
+  "version": "1.0.0",
+  "description": "GitBook demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taochallenge/frigg-book.git"
+  },
+  "keywords": [],
+  "author": "gongweitao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taochallenge/frigg-book/issues"
+  },
+  "homepage": "https://github.com/taochallenge/frigg-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
